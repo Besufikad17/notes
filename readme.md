@@ -15,7 +15,7 @@
 
 ## Usage
 
-- You can download one of the notes or all the notes from the [release]() section. To get updates and avoid redundancy you can use the following commands.
+- You can download one of the notes or all the notes from the [release](https://github.com/Besufikad17/notes/releases/tag/%23notes) section. To get updates and avoid redundancy you can use the following commands.
 
 ```bash
    # clonning the repo
