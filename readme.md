@@ -19,7 +19,7 @@
 
 ```bash
    # clonning the repo
-   git clone git https://github.com/Besufikad17/notes.git 
+   git clone https://github.com/Besufikad17/notes.git 
 ```
 
 ```bash
