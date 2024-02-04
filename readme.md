@@ -12,7 +12,7 @@
 - [Software Architecture and Design](https://github.com/Besufikad17/notes/releases/download/%23notes/Software.Architecture.and.Design.pdf)
 - [Software Maintenance and Evolution](https://github.com/Besufikad17/notes/releases/download/%23notes/Software.Maintainance.an.Evolution.pdf)
 - [Testing and Quality Assurance](https://github.com/Besufikad17/notes/releases/download/%23notes/Testing.and.Quality.Assurance.pdf)
-- [Introduction to Game Design and Animation](https://github.com/Besufikad17/notes/releases/download/%23notes/Introduction.to.Game.Design.Animation.pdf)
+- [Introduction to Game Design and Animation](https://github.com/Besufikad17/notes/releases/download/%23notes/Introduction.to.Game.Design.and.Animation.pdf)
 
 ## Usage
 
